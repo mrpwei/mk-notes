@@ -1,0 +1,11 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    primary: white
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.instant
+    - navigation.top
